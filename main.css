@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+input {
+    margin-top: 300px;
+    border-radius: 5px;
+    margin-left: 650px;
+    padding: 4px;
+}
+
+button {
+    padding: 4px;
+    margin-left: 15px;
+}
+
+button:hover {
+    transform: translate(0px, -5px);
+}
+
+output {
+    border: 5px;
+}
+
+p {
+ text-align: left;
+ margin-left: 650px;
+ margin-right: 720px;
+ margin-top: 25px;
+}
